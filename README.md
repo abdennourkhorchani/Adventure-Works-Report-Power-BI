@@ -53,11 +53,11 @@ Dynamic Filtering: A powerful combination of buttons and bookmarks with slicers 
    
   Each dimension table is connected to the fact table through a 1-to-many relationship (screenshot in the repository). Product,Subcategory and Cateogry dimensions are connected creating a hierarchical structure.
   
-  **DAX Measures:** Several DAX measures are created to calculate key metrics, such as monthly revenue/profit/returns, total orders/profit, profit adjustment due to price adjustment, top product, customer ...
-  **Visualizations:** The report includes various visualizations, including treemap,matrix,line chart, gauge, KPI, map area, donut and stacked bar chart.
-  **Slicers:**  slicers allow users to drill down into specific data segments by date and region.
-  **Drill-Down Capabilities:** Explore data at different levels of granularity (hierarchies) : Category, subcategory and product.
-  **Drill-through Capabilities:** described above
+ * **DAX Measures:** Several DAX measures are created to calculate key metrics, such as monthly revenue/profit/returns, total orders/profit, profit adjustment due to price adjustment, top product, customer ...
+ * **Visualizations:** The report includes various visualizations, including treemap,matrix,line chart, gauge, KPI, map area, donut and stacked bar chart.
+ * **Slicers:**  slicers allow users to drill down into specific data segments by date and region.
+ * **Drill-Down Capabilities:** Explore data at different levels of granularity (hierarchies) : Category, subcategory and product.
+ * **Drill-through Capabilities:** described above
 Bookmarks: Create dynamic and interactive reports that guide users through different insights by using 7 bookmarks that save specific states of the report, including filter selections, visual configurations, and page views( clear filter, Users ON/OFF, Currency ON/OFF, Territory ON/OFF).
 
 Edit Interactions Customize how the visualizations on the report page filter and highlight each other. For example total sales last month and total sales amount cards do not interact with currency slicer.
