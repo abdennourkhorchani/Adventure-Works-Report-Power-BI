@@ -45,7 +45,7 @@ Dynamic Filtering: A powerful combination of buttons and bookmarks with slicers 
 
 **Technical Details**
 
-  **Data Model:**
+ *  **Data Model:**
   
   A snowflake schema Model is used to organize the data, with 2 fact tables (AW_Sales, AW_Returns) and the following dimension tables:
   
@@ -58,7 +58,7 @@ Dynamic Filtering: A powerful combination of buttons and bookmarks with slicers 
  * **Slicers:**  slicers allow users to drill down into specific data segments by date and region.
  * **Drill-Down Capabilities:** Explore data at different levels of granularity (hierarchies) : Category, subcategory and product.
  * **Drill-through Capabilities:** described above
-Bookmarks: Create dynamic and interactive reports that guide users through different insights by using 7 bookmarks that save specific states of the report, including filter selections, visual configurations, and page views( clear filter, Users ON/OFF, Currency ON/OFF, Territory ON/OFF).
+* **Bookmarks:** Create dynamic and interactive reports that guide users through different insights by using 7 bookmarks that save specific states of the report, including filter selections, visual configurations, and page views( clear filter, Users ON/OFF, Currency ON/OFF, Territory ON/OFF).
 
 Edit Interactions Customize how the visualizations on the report page filter and highlight each other. For example total sales last month and total sales amount cards do not interact with currency slicer.
 
