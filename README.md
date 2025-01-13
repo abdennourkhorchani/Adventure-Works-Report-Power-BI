@@ -61,7 +61,7 @@ This Power BI project provides a comprehensive analysis of Adventure Works sales
 * 
  **How to Use:**
  Follow the demo video to know how to use the report well.
- 
+ https://www.youtube.com/watch?v=vyBGNZIDKWA
 
 **Future Enhancements**
 
