@@ -7,7 +7,7 @@ This Power BI project provides a comprehensive analysis of Adventure Works sales
 - Gain a holistic view of overall sales performance across key metrics (orders, revenue, profit,returns).
 - Identify regional and product-level sales trends.
 - Monitor key performance indicators (KPIs) such as monthly revenue, order volume, and return rates.
-- Analyze the profitability of individual products/customers.
+- Analyze the sales results of individual products/customers.
 - Track product performance against sales targets.
 - Understand customer demographics and preferences.
   
