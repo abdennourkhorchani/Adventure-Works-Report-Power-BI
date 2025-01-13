@@ -29,7 +29,7 @@ This Power BI project provides a comprehensive analysis of Adventure Works sales
 
 **Customer Page:**
 
-- Visualize orders distribution by income level, gender, occupation, age .
+- Visualize orders distribution by income level, gender, occupation and age .
 - Analyze orders volume and total revenue of individual customers.
 - Identify Top customer and their revenue and total orders.
 
@@ -41,18 +41,21 @@ This Power BI project provides a comprehensive analysis of Adventure Works sales
    
   Each dimension table is connected to the fact table through a 1-to-many relationship (screenshot in the repository). Product,Subcategory and Cateogry dimensions are connected creating a hierarchical structure.
   
- * **DAX Measures:** Several DAX measures are created to calculate key metrics, such as monthly revenue/profit/returns, total orders/profit, profit adjustment due to price adjustment, top product, customer ...
+ * **DAX Measures:** Several DAX measures are created to calculate key metrics, such as monthly revenue/profit/returns, total orders/profit, profit adjustment due to price adjustment, top product/customer ...
  * **Visualizations:** The report includes various visualizations, including treemap,matrix,line chart, gauge, KPI, map area, donut and stacked bar chart.
- * **Slicers:**  slicers allow users to drill down into specific data segments by date and region.
+ * **Slicers:** Allow users to drill down into specific data segments by date and region.
  * **Drill-Down Capabilities:** Explore data at different levels of granularity (hierarchies) : Category, subcategory and product.
  * **Drill-through Capabilities:** Navigate from an overview report to a more detailed report page focused on a specific data point (product drill through)
 * **Bookmarks:** Create dynamic and interactive reports that guide users through different insights by using 2 bookmarks that save specific states of the report, including filter selections, visual configurations, and page views( exec summary, product detail).
 
 * **Edit Interactions:** Customize how the visualizations on the report page filter and highlight each other. For example monthly revenue,orders,returns do not interact with date slicer.
 
-* **Workspace:** create a content container that hold dashboards, reports, datasets, dataflows, and paginated reports, and provide a single location to work together on this project.
+* **Workspace:** Create a content container that hold dashboards, reports, datasets, and provide a single location to work together on this project.
 
-* **Publish the report:** upload the report to the created workspace(Adventure Works Sales).
+![Capture](https://github.com/user-attachments/assets/82d67609-69a0-4325-8c86-21b0db07acf2)
+
+
+* **Publish the report:** Upload the report to the created workspace(Adventure Works Sales).
 
 
 * 
